@@ -1,0 +1,57 @@
+h1{
+    color:rgb(113, 5, 5);
+    font-family:'Courgette';
+    font-style:italic;
+    text-align:center;
+    text-decoration: underline;
+}
+h2{
+    color:rgb(113, 5, 5);
+    font-size::2.5em
+    font-style:italic;
+    padding: 150px;
+    background-image:url("isamm-nv.jpg");
+    background-attachment: fixed;
+    background-size:cover;
+    background-position:center ;
+    opacity: 1;
+    text-align:start;
+
+.ma{
+
+}
+}
+h3{
+    font-style:italic;
+    font-weight:bold;
+    color:rgb(49, 104, 222);
+    font-size:2em;
+
+}
+body{
+    background:linear-gradient(#ADA996,#EAEAEA);
+}
+h4{
+    font-style:italic;
+    font-weight:bold;
+    font-size:1.5em;
+    color:rgb(49, 104, 222);
+
+}
+.mm{
+    text-decoration:underline;
+    color:rgb(7, 95, 7);
+    font-weight:bold;
+    font-style:italic;
+
+}
+em{
+    color:rgb(113, 5, 5);
+    font-weight:bold;
+    text-decoration:underline;
+}
+.ok{
+    color:rgb(7, 95, 7);
+    font-weight:bold;
+    font-style:italic;
+}
